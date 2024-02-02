@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [Liqour point](https://liquor-point.vercel.app/)
 
+- 🌱 Currently learning **Mobile development**
+
 - 📫 How to reach me **geraldmumo6@gmail.com**
 
-- ⚡ Fun fact **Chills and engine builds**
+- ⚡ Fun fact **Chills and Engine builds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
