@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gerald mumo</h1>
 <h3 align="center">A Software developer with a focus in Full-stack web development, design systems and understanding software infrastructure</h3>
 
-- 🔭 I’m currently working on [Liqour point](https://liquor-point.vercel.app/)
-
-- 🌱 Currently learning **Mobile development**
-
 - 📫 How to reach me **geraldmumo6@gmail.com**
 
 - ⚡ Fun fact **Chills and Engine builds**
