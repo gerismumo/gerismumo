@@ -13,7 +13,7 @@ const Greeting: React.FC = () => (
 
 export default Greeting;
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerismumo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerismumo&layout=compact&theme=dark)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gerismumo&theme=high-contrast&custom_title=Github%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
