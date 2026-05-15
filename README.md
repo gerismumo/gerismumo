@@ -5,9 +5,7 @@ import React from "react";
 const Profile: React.FC = () => (
   <div>
     <h1>Hi, I'm Gerald Mumo!</h1>
-    <p>Full-Stack Developer passionate about building scalable web and mobile applications.</p>
-    <p>Skills: JavaScript, TypeScript, Golang</p>
-    <p>Currently exploring Web3 and AI technologies to drive innovation.</p>
+    <p>A passionate JavaScript Engineer!</p>
   </div>
 );
 
